@@ -1,0 +1,4 @@
+name: SivilsEnchants
+version: '1.0.0'
+main: me.dunescifye.sivilsenchants.SivilsEnchants
+api-version: '1.20'
